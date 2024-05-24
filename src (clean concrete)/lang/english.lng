@@ -1,9 +1,9 @@
 ##grflangid 0x01
 
 # General GRF strings
-STR_GRF_NAME:{GREEN}ISR/DWE-style Objects II v1.0
-STR_GRF_DESCRIPTION:{}{ORANGE}Quast65's 'ISR/DWE-style Objects' refurbished.{}{}Contains tiles from ISR/DWE stations, dock- and road-overlapping tiles etc., all updated to be compatible with Brickblock1's 'CHIPS style dock objects'.{}{}+ objects automatically adapt to land/water{}+ no maddening multiselect{}+ use parameters to switch between two types of concrete{}{}{}{SILVER}Original NewGRF: {YELLOW}Quast65{}{SILVER}Additional ship sprites: {YELLOW}Unsinkable Sam and SHARK{}{SILVER}Code for FIRS foundations: {YELLOW}Brickblock1{}{SILVER}Minor additions and coding: {YELLOW}chujo{}{}{}{LTBLUE}May 22, 2024
-STR_GRF_URL:https://www.tt-forums.net/
+STR_GRF_NAME:ISR/DWE-style Objects II {GOLD}[clean concrete]
+STR_GRF_DESCRIPTION:{}{ORANGE}Quast65's 'ISR/DWE-style Objects' refurbished.{}{}Contains tiles from ISR/DWE stations, dock- and road-overlapping tiles etc., all updated to be compatible with Brickblock1's 'CHIPS style dock objects'.{}{}+ objects automatically adapt to land/water{}+ no maddening multiselect{}+ use parameters to switch between two types of concrete{}{}{}{SILVER}Original NewGRF: {YELLOW}Quast65{}{SILVER}Code for FIRS foundations: {YELLOW}Brickblock1{}{SILVER}Additional ship sprites: {YELLOW}Unsinkable Sam and SHARK{}{SILVER}Minor gfx additions and coding: {YELLOW}chujo{}{}{}{LTBLUE}May 24, 2024
+STR_GRF_URL:https://github.com/chujo-chujo/ISR-DWE-Objects-II
 STR_OPENTTD_VERSION:1.2.0 (r22723)
 
 #####################################################
@@ -20,7 +20,7 @@ STR_PAR_ground_TYPE1:CHIPS Concrete
 STR_PAR_ground_TYPE2:OpenGFX Concrete
 
 # Main category strings
-STR_Separator:{YELLOW}ISR/DWE Objects II (Clean concrete)
+STR_Separator:{YELLOW}ISR/DWE Objects II (clean concrete)
 STR_CAT01:     Normal ISR/DWE tiles
 STR_CAT02:     ISR/DWE-roads
 STR_CAT03:     Fixtures
@@ -34,7 +34,7 @@ STR_CAT10:     Ships
 STR_OVERLAP:     Overlapping tiles
 
 # Objects in categories
-STR_Separator_menu:ISR/DWE Objects II (Clean concrete)
+STR_Separator_menu:ISR/DWE Objects II (clean concrete)
 STR_Normal_ISR_DWE_tiles:ISR/DWE Object
 STR_ISR_DWE_roads:ISR/DWE-Road
 STR_Fixtures:ISR/DWE Fixtures
