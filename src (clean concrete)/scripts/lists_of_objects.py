@@ -404,6 +404,17 @@ list_of_Normal_ISR_DWE_tiles = [
 list_of_Transition_tiles = [
 	{
 	"NAME_OF_OBJECT":   "Transition_tiles_01",
+	"SPRITE01":         "template_standard     (0,220)",
+	"SPRITE02":         "template_standard     (80,220)",
+	"SPRITE03":         "template_standard     (160,220)",
+	"SPRITE04":         "template_standard     (240,220)",
+	"CATEGORY":         "I201",
+	"NAME_OF_CAT":      "string(STR_CAT01)",
+	"NAME_IN_MENU":     "string(STR_Transition_tiles)",
+	"SIZE":             "[1,1]",
+	"NUMERO":           "NUMERO"},
+	{
+	"NAME_OF_OBJECT":   "Transition_tiles_02",
 	"SPRITE01":         "template_standard     (0,0)",
 	"SPRITE02":         "template_standard     (80,0)",
 	"SPRITE03":         "template_standard     (240,0)",
@@ -414,7 +425,7 @@ list_of_Transition_tiles = [
 	"SIZE":             "[1,1]",
 	"NUMERO":           "NUMERO"},
 	{
-	"NAME_OF_OBJECT":   "Transition_tiles_02",
+	"NAME_OF_OBJECT":   "Transition_tiles_03",
 	"SPRITE01":         "template_standard     (0,  110)",
 	"SPRITE02":         "template_standard     (80, 110)",
 	"SPRITE03":         "template_standard     (160,110)",

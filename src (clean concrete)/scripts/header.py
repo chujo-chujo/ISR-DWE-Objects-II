@@ -83,8 +83,6 @@ template template_2x1_overlap_menu(x, y) { [x, y, 96, 100, -63, -77, ANIM] }
 template template_menu_L(x, y)        { [x, y, 64, 100, -56, -69, ANIM] }
 template template_menu_R(x, y)        { [x, y, 64, 100, -6,  -69, ANIM] }
 
-template template_multi_2x(x, y)      { [x, y, 64, 100, -31, -69, ANIM] }
-
 // spritesets for ground
 spriteset(spriteset_GRN_EMPTY,      "gfx/ground_empty.png") { template_standard(0,0) }
 
@@ -225,9 +223,6 @@ spriteset (spriteset_jetty_ne_sw_no_water, "gfx/ground_tiles.png") { [80, 90, 64
 
 spriteset (spriteset_empty_elevated, "gfx/ground_tiles.png") { [290, 10, 64, 31, -31, -8, ANIM] }
 spriteset (spriteset_empty, "gfx/ground_tiles.png") { [290, 10, 64, 31, -31, 0, ANIM] }
-
-// "2x" in the purchase menu
-spriteset(spriteset_MULTI_2x, "gfx/multi_2x.png") { template_multi_2x(0,0) }
 
 // SEPARATOR IN PURCHASE MENU
 spritelayout layout_menu_separator {

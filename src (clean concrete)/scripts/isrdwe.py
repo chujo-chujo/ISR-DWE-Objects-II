@@ -105,21 +105,21 @@ for n in list_of_Ships:
 	replaced = replace_keywords(n, template_Ships)
 	NML.append(replaced)
 
-# # dev info
-# print(f"Number of Normal_ISR_DWE_tiles: {len(list_of_Normal_ISR_DWE_tiles) + len(list_of_Transition_tiles)}")
-# print(f"Number of ISR_DWE_roads: {len(list_of_ISR_DWE_roads)}")
-# print(f"Number of Fixtures: {len(list_of_Fixtures)}")
-# print(f"Number of Vehicles: {len(list_of_Vehicles)}")
-# print(f"Number of Road_overlapping_tiles: {len(list_of_Road_overlapping_tiles)}")
-# print(f"Number of Drive_through_tiles: {len(list_of_Drive_through_tiles)}")
-# print(f"Number of Water_based_tiles: {len(list_of_Water_based_tiles)}")
-# print(f"Number of Dock_overlapping_tiles: {len(list_of_Dock_overlapping_tiles) + len(list_of_Dock_overlapping_tiles_water)}")
-# print(f"Number of Cargo_tiles: {len(list_of_Cargo_tiles_random) + len(list_of_Cargo_tiles)}")
-# print(f"Number of Ships: {len(list_of_Ships)}")
-# print(f"------------------------------------------")
-# print(f"Total: {len(NML)}")
-# print(f"------------------------------------------")
-# print(f"Number of lines of code: {sum(len(s.splitlines()) for s in NML)}")
+# dev info
+print(f"Number of Normal_ISR_DWE_tiles: {len(list_of_Normal_ISR_DWE_tiles) + len(list_of_Transition_tiles)}")
+print(f"Number of ISR_DWE_roads: {len(list_of_ISR_DWE_roads)}")
+print(f"Number of Fixtures: {len(list_of_Fixtures)}")
+print(f"Number of Vehicles: {len(list_of_Vehicles)}")
+print(f"Number of Road_overlapping_tiles: {len(list_of_Road_overlapping_tiles)}")
+print(f"Number of Drive_through_tiles: {len(list_of_Drive_through_tiles)}")
+print(f"Number of Water_based_tiles: {len(list_of_Water_based_tiles)}")
+print(f"Number of Dock_overlapping_tiles: {len(list_of_Dock_overlapping_tiles) + len(list_of_Dock_overlapping_tiles_water)}")
+print(f"Number of Cargo_tiles: {len(list_of_Cargo_tiles_random) + len(list_of_Cargo_tiles)}")
+print(f"Number of Ships: {len(list_of_Ships)}")
+print(f"------------------------------------------")
+print(f"Total: {len(NML)}")
+print(f"------------------------------------------")
+print(f"Number of lines of code: {sum(len(s.splitlines()) for s in NML)}")
 
 
 # Number all objects, replace 'NUMERO' with a number
@@ -130,7 +130,7 @@ update_lang_file()
 
 
 # Write the list of NML strings into a file
-file_path = "isrdwe_generated.nml"
+file_path = "isrdwe_objects_clean.nml"
 
 if os.path.exists(file_path):
   os.remove(file_path)
