@@ -234,7 +234,7 @@ spritelayout layout_menu_separator {
 }
 item (FEAT_OBJECTS, menu_separator, 000) {
     property {
-        class:                  "I200";
+        class:                  "D200";
         classname:              string(STR_Separator);
         name:                   string(STR_Separator_menu);
         climates_available:     ALL_CLIMATES;
