@@ -2,7 +2,7 @@
 
 # General GRF strings
 STR_GRF_NAME:ISR/DWE-style Objects II  {SILVER}[dirty concrete]
-STR_GRF_DESCRIPTION:{}{ORANGE}Quast65's 'ISR/DWE-style Objects' refurbished.{}{}Contains tiles from ISR/DWE stations, dock- and road-overlapping tiles etc., all updated to be compatible with Brickblock1's 'CHIPS style dock objects'.{}{}+ objects automatically adapt to land/water{}+ no maddening multiselect{}+ use parameters to switch between two types of dirty concrete (CHIPS or ISR){}{}{}{SILVER}Original NewGRF: {YELLOW}Quast65{}{SILVER}Code for FIRS foundations: {YELLOW}Brickblock1{}{SILVER}Additional ship sprites: {YELLOW}Unsinkable Sam and SHARK{}{SILVER}Minor gfx additions and coding: {YELLOW}chujo{}{}{}{LTBLUE}May 26, 2024
+STR_GRF_DESCRIPTION:{}{ORANGE}Quast65's 'ISR/DWE-style Objects' refurbished.{}{}Contains tiles from ISR/DWE stations, dock- and road-overlapping tiles etc., all updated to be compatible with Brickblock1's 'CHIPS style dock objects'.{}{}+ objects automatically adapt to land/water{}+ no maddening multiselect{}+ use parameters to switch between two types of dirty concrete (CHIPS or ISR){}{}{}{SILVER}Original NewGRF: {YELLOW}Quast65{}{SILVER}Code for FIRS foundations: {YELLOW}Brickblock1{}{SILVER}Additional ship sprites: {YELLOW}Unsinkable Sam and SHARK{}{SILVER}Minor gfx additions and coding: {YELLOW}chujo{}{}{}{LTBLUE}May 29, 2024
 STR_GRF_URL:https://github.com/chujo-chujo/ISR-DWE-Objects-II
 STR_OPENTTD_VERSION:1.2.0 (r22723)
 
@@ -16,8 +16,8 @@ STR_PAR02_DESC:{GOLD}Built objects can only be removed with Magic bulldozer.
 
 STR_PAR_ground_NAME:Type of concrete
 STR_PAR_ground_DESC:{GOLD}Select the style of ground tiles.
-STR_PAR_ground_TYPE1:CHIPS Concrete
-STR_PAR_ground_TYPE2:OpenGFX Concrete
+STR_PAR_ground_TYPE1:CHIPS dirty concrete
+STR_PAR_ground_TYPE2:ISR concrete
 
 # Main category strings
 STR_Separator:{YELLOW}ISR/DWE Objects II  (dirty concrete)
