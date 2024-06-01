@@ -4,7 +4,7 @@
 
 ## About
 
-Quast65's **ISR/DWE-style Objects** is a NewGRF popular with lovers of eyecandy industrial zones and ports. **ISR/DWE-style Objects II** is not meant as a replacement, but rather an update. You will find everything you are used to have at your disposal: objects from the ISR and DWE stations, dock- and road-overlapping tiles, drive-through tiles etc.; hopefully well-arranged and redone in a more user-friendly way.<br>
+Quast65's ISR/DWE-style Objects is a NewGRF popular with lovers of eyecandy industrial zones and ports. **ISR/DWE-style Objects II** is not meant as a replacement, but rather an update. You will find everything you are used to have at your disposal: objects from the ISR and DWE stations, dock- and road-overlapping tiles, drive-through tiles etc.; hopefully well-arranged and redone in a more user-friendly way.<br>
 The original is, however, still very usable and can be loaded side by side with this version.
 
 Nevertheless, there were several incentives that motivated the creation of a modernized clone - one of the strongest was to eliminate the _multi-item objects_ (whose randomness can drive even the strongest men into a padded cell).
