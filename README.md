@@ -4,11 +4,11 @@
 
 ## About
 
-Quast65's ISR/DWE-style Objects is a NewGRF popular with lovers of eyecandy industrial zones and ports. **ISR/DWE-style Objects II** is not meant as a replacement, but rather an update. You will find everything you are used to have at your disposal: objects from the ISR and DWE stations, dock- and road-overlapping tiles, drive-through tiles etc.; hopefully well-arranged and redone in a more user-friendly way.<br>
+Quast65's ISR/DWE-style Objects is a NewGRF popular with lovers of eyecandy industrial zones and ports.<br>**ISR/DWE-style Objects II** is not meant as a replacement, but rather an update. You will find everything you are used to have at your disposal: objects from the ISR and DWE stations, dock- and road-overlapping tiles, drive-through tiles etc.; hopefully well-arranged and redone in a more user-friendly way.<br>
 The original is, however, still very usable and can be loaded side by side with this version.
 
 Nevertheless, there were several incentives that motivated the creation of a modernized clone - one of the strongest was to eliminate the _multi-item objects_ (whose randomness can drive even the strongest men into a padded cell).
-Another reason was the unification of styles - some of the more popular industries are FIRS sets (accompanied by CHIPS stations) with their own _ground_ and _foundations style_. Brickblock1's "CHIPS style dock objects" already allows to build docks visually compatible with FIRS' graphics so it served as a big inspiration for this object set.
+Another reason was the unification of styles - some of the more popular industries are FIRS sets (accompanied by CHIPS stations) with their own _ground_ and _foundations style_.<br>Brickblock1's "CHIPS style dock objects" already allows to build docks visually compatible with FIRS' graphics so it served as a big inspiration for this object set.
 
 Once the original NewGRF was dissected, an effort was put into making the ground tiles replaceable which resulted in **two variants** of this new offshoot:
 
