@@ -1,9 +1,17 @@
-+-------------------------------------------+
-| ISR/DWE-STYLE OBJECTS II (clean concrete) |
-+-------------------------------------------+
++--------------------------------------------+
+| ISR/DWE-STYLE OBJECTS II  [clean concrete] |
++--------------------------------------------+
 
 
  === Changelog ===
+
+
+v1.1 (2026-09-02)
+->  Rewrote spritelayouts (significantly reduced code)
+->  Improved cc recolour, added parameters
+->  Fixed foundations - layout and alignments
+->  Fixed overlapping objects (with caveats)
+->  Fixed various graphic bugs and pixel glitches
 
 
 v1.0 (2024-05-31)

@@ -1,37 +1,46 @@
-+--------------------------+
-| ISR/DWE-STYLE OBJECTS II |
-+--------------------------+
++--------------------------------------------+
+| ISR/DWE-STYLE OBJECTS II  [clean concrete] |
++--------------------------------------------+
 
 
 === About ===
 
-Quast65's ISR/DWE-style Objects is a NewGRF popular with lovers of eyecandy industrial zones and ports. ISR/DWE-style Objects II is not meant as a replacement, but rather an update. You will find everything you are used to have at your disposal: objects from the ISR and DWE stations, dock- and road-overlapping tiles, drive-through tiles etc.; hopefully well-arranged and redone in a more user-friendly way.
+Quast65's ISR/DWE-style Objects is a NewGRF popular with lovers of eyecandy industrial zones and ports.
+ISR/DWE-style Objects II is not meant as a replacement, but rather an update. You will find everything you are used to have at your disposal: objects from the ISR and DWE stations, dock- and road-overlapping tiles, drive-through tiles etc.; hopefully well-arranged and redone in a more user-friendly way.
+
 The original is, however, still very usable and can be loaded side by side with this version.
 
-Nevertheless, there were several incentives that motivated the creation of a modernized clone - one of the strongest was to eliminate the multi-item objects (whose randomness can drive even the strongest men into a padded cell).
-Another reason was the unification of styles - some of the more popular industries are FIRS sets (accompanied by CHIPS stations) with their own ground and foundations style. Brickblock1's "CHIPS style dock objects" already allows to build docks visually compatible with FIRS' graphics so it served as a big inspiration for this object set.
 
-Once the original NewGRF was dissected, an effort was put into making the ground tiles of this new offshoot switchable, so the player can now choose from two types of concrete (via parameters).
+=== Features ===
+
+- Wide range of industrial, ISR/DWE themed objects:
+    * from roads to fixtures, from vehicles to ships, from cranes to tiles with cargo
+- Most objects automatically adapt to land/water
+- No multi-item objects
+- Designed to match the FIRS and CHIPS style
+- Each variant comes with two types of concrete (can be switched mid-game via Parameters)
 
 
 === Parameters ===
 
 -> Type of concrete
-   = Allows to select the style of ground tiles from 2 options (can be switched during gameplay).
-
+     = Allows to select the style of ground tiles from 2 options (can be switched during gameplay).
 -> Only in Scenario Editor
-   = Objects can be placed only when creating a scenario.
+     = Objects can be placed only when creating a scenario.
 -> Irremovable objects
-   = Built objects (in the editor or otherwise) can be removed only by using Magic bulldozer.
+     = Built objects (in the editor or otherwise) can be removed only by using Magic bulldozer.
+-> Recolor objects randomly
+     = Some objects have recolorable elements that use the primary company color by default. You can use this parameter to turn on random recoloring.
+-> Disable random ship recoloring
+     = Unlike objects, ships use random colors by default and you can use this parameter to turn off random recoloring.
 
 
 === Credits ===
 
 Original NewGRF: Quast65
-Code for FIRS foundations + automatic land/water adaptation:
-Brickblock1
 Additional ship sprites: Unsinkable Sam and SHARK (and their respective authors)
 Minor gfx changes/additions and coding: chujo
+Brickblock1's CHIPS style dock objects served as a big inspiration
 
 https://github.com/chujo-chujo/ISR-DWE-Objects-II
 
@@ -41,4 +50,4 @@ Licensed under the GNU General Public License version 2.
 === Contact ===
 
 @chujo on OpenTTD's Discord (discord.gg/openttd)
-or on www.tt-forums.net (where I stop by once in a blue moon)
+or on www.tt-forums.net
